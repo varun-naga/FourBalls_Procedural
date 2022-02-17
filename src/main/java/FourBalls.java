@@ -5,7 +5,7 @@ public class FourBalls extends PApplet {
     public  static  final int HEIGHT=480;
     public  static  final int DIAMETER=10;
     int x=0,y=0,z=0,p=0;
-    public static void main(String[] args){ PApplet.main("TryProcessing",args);}
+    public static void main(String[] args){ PApplet.main("FourBalls",args);}
         @Override
         public void settings(){
             super.settings();
